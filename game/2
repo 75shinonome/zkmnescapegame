@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>あける。第二回「林檎汁」</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+
+<!--　ヘッダー　-->
+    <div class="header">
+      <div class="header-logo"><a href="../index.html">自己満足な脱出ゲーム攻略サイト</a></div>
+      <div class="header-list">
+        <div id="nav-drawer">
+          <input id="nav-input" type="checkbox" class="nav-unshown">
+          <label id="nav-open" for="nav-input"><span></span></label>
+          <label class="nav-unshown" id="nav-close" for="nav-input"></label>
+          <div id="nav-content">
+            <ul>
+<!--
+              <li><form class="index-search"　action="game" method="get">
+                <input type="search" name="search">
+                <input type="submit" value="検索">
+              </form></li>
+-->
+              <li><a href="../pc/pc.html">PCゲーム</a></li>
+              <li><a href="../smh/smh.html">スマートフォンゲーム</a></li>
+              <!-- <li><a href="form.html">お問い合わせ</a></li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!--　メイン　-->
+<div class="main">
+
+  <div class="contents">
+    <h3 class="section-title">あける。第二回「林檎汁」
+      <div class="app">
+        <img src="akr_2.jpg" alt="">
+      </div>
+      <ul class="url">
+        <li>
+          <a href="../developer/tomoLaSiDo.html">tomoLaSiDo</a><br><br>
+          <a href="http://www.tomolasido.net/akr2_mbl.html" target="_blank">あける。第二回「林檎汁」（iPhone / android向け）</a><br>
+          <a href="http://www.tomolasido.net/akr2.html" target="_blank">あける。第二回「林檎汁」（PC向け）</a>
+        </li>
+      </ul>
+    </h3>
+    <p>
+      <strong>END数：1</strong><br><br><br>
+      <strong>・正面</strong><br>
+      　『315ml』を確認する。<br><br>
+      <strong>・右</strong><br>
+      　『よく振ってお飲み下さい。』を確認する。<br>
+      　正面で確認した『315ml』をヒントに、下の『□□□ml』に『315』を合わせ、青いボタンを押す。<br><br>
+      <strong>・左</strong><br>
+      　缶の色をヒントに、白い線を上から『赤・黄・白』に合わせ、青いボタンを押す。<br><br>
+      <strong>・下</strong><br>
+      　りん”ご”の語呂合わせで、りん□に『5』を合わせ、青いボタンを押す。<br>
+      　右で確認した『よく振ってお飲み下さい。』をヒントに、上下に5回振る。<br>
+      　　（りん”ご”の語呂合わせで5回？）<br><br>
+      <strong>・上</strong><br>
+      　取っ手を押す。
+    </p>
+  </div>
+</div>
+
+<!--　フッター　-->
+    <div class="footer">
+      <div class="footer-logo">自己満足な脱出ゲーム攻略サイト</div>
+      <div><address>©2020-</address></div>
+    </div>
+  </body>
+</html>
