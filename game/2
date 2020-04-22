@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>あける。第二回「林檎汁」</title>
-    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="game.css">
   </head>
   <body>
 
@@ -38,11 +38,11 @@
   <div class="contents">
     <h3 class="section-title">あける。第二回「林檎汁」
       <div class="app">
-        <img src="akr_2.jpg" alt="">
+        <img src="../akr_2.jpg" alt="">
       </div>
       <ul class="url">
         <li>
-          <a href="../developer/tomoLaSiDo.html">tomoLaSiDo</a><br><br>
+          <a href="../developer/1">tomoLaSiDo</a><br><br>
           <a href="http://www.tomolasido.net/akr2_mbl.html" target="_blank">あける。第二回「林檎汁」（iPhone / android向け）</a><br>
           <a href="http://www.tomolasido.net/akr2.html" target="_blank">あける。第二回「林檎汁」（PC向け）</a>
         </li>
