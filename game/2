@@ -23,8 +23,8 @@
                 <input type="submit" value="検索">
               </form></li>
 -->
-              <li><a href="../pc/pc.html">PCゲーム</a></li>
-              <li><a href="../smh/smh.html">スマートフォンゲーム</a></li>
+              <li><a href="../pc/1.html">PCゲーム</a></li>
+              <li><a href="../smh/1.html">スマートフォンゲーム</a></li>
               <!-- <li><a href="form.html">お問い合わせ</a></li> -->
             </ul>
           </div>
@@ -42,7 +42,7 @@
       </div>
       <ul class="url">
         <li>
-          <a href="../developer/1">tomoLaSiDo</a><br><br>
+          <a href="../developer/1.html">tomoLaSiDo</a><br><br>
           <a href="http://www.tomolasido.net/akr2_mbl.html" target="_blank">あける。第二回「林檎汁」（iPhone / android向け）</a><br>
           <a href="http://www.tomolasido.net/akr2.html" target="_blank">あける。第二回「林檎汁」（PC向け）</a>
         </li>
