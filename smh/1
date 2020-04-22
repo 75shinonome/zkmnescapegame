@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>自己満足な脱出ゲーム攻略サイト</title>
-    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="smh.css">
   </head>
   <body>
 
@@ -42,24 +42,24 @@
         <article>
           <h3>あける。第二回「林檎汁」</h3>
           <div class="block">
-            <a href="../game/2.html" sl-processed="1">
-              <img src="akr_2.jpg">
+            <a href="../game/2" sl-processed="1">
+              <img src="../akr_2.jpg">
             </a>
           </div>
           <div class="list-detail">
-            <a href="../developer/tomoLaSiDo.html" sl-processed="1">tomoLaSiDo</a>
+            <a href="../developer/1" sl-processed="1">tomoLaSiDo</a>
           </div>
         </article>
 
         <article>
           <h3>あける。第一回「蜜柑汁」</h3>
           <div class="block">
-            <a href="../game/1.html" sl-processed="1">
-              <img src="akr_1.jpg">
+            <a href="../game/1" sl-processed="1">
+              <img src="../akr_1.jpg">
             </a>
           </div>
           <div class="list-detail">
-            <a href="../developer/tomoLaSiDo.html" sl-processed="1">tomoLaSiDo</a>
+            <a href="../developer/1" sl-processed="1">tomoLaSiDo</a>
           </div>
         </article>
 
